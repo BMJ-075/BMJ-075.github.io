@@ -1093,7 +1093,7 @@ header .row {
 	position: relative;
 	min-height: 66px;
 }
-header .top-bar {
+/* header .top-bar {
 	display: block;
 	background: #000000;
 	min-width: 220px;
@@ -1101,7 +1101,7 @@ header .top-bar {
 	position: absolute;
 	left: 90px;
 	top: 0;
-}
+} */
 header .logo {
 	float: left;
 	margin-left: 20px;
@@ -1131,6 +1131,7 @@ header .logo a {
 	float: left;
 	width: 40px;
 	height: 40px;
+	background-color: #000000;
 	margin-left: 20px;
 	margin-top: 13px;
 	display: block;
@@ -1219,7 +1220,7 @@ header .logo a {
 /* navigation panel */
 #main-nav-wrap {
 	display: block;
-	width: 100%;
+	/* width: 100%; */
 	font-family: "poppins-medium", sans-serif;
 	font-size: 1.5rem;
 	position: absolute;
